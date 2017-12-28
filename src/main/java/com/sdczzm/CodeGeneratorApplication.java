@@ -1,4 +1,4 @@
-package com.sdczzm.controller;
+package com.sdczzm;
 
 
 import org.springframework.boot.SpringApplication;
